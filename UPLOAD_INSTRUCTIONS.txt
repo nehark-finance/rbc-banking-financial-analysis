@@ -1,0 +1,21 @@
+RBC FINANCIAL ANALYSIS — GITHUB UPLOAD INSTRUCTIONS
+
+1. Extract RBC_Financial_Analysis_GitHub_Ready.zip.
+2. Open the extracted folder named rbc-banking-financial-analysis.
+3. In GitHub, choose Add file > Upload files.
+4. Drag the following items from inside the extracted folder:
+   README.md
+   DISCLAIMER.md
+   UPLOAD_INSTRUCTIONS.txt
+   .gitignore
+   data folder
+   images folder
+   documentation folder
+5. Confirm GitHub displays paths such as:
+   images/RBC_Executive_Dashboard.png
+   data/RBC_Banking_Financial_Analysis.xlsx
+   documentation/Project_Methodology.md
+6. Do not upload the ZIP file itself into the repository.
+7. Commit message:
+   Add complete RBC financial analysis portfolio project
+8. Commit directly to the main branch.
